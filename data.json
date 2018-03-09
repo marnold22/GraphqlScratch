@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Iron Man",
+      "email": "stark@avengers.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Captain America",
+      "email": "rogers@avengers.com",
+      "age": 93
+    },
+    {
+      "id": "3",
+      "name": "Hulk",
+      "email": "banner@avengers.com",
+      "age": 38
+    },
+    {
+      "id": "4",
+      "name": "Thor",
+      "email": "thor@avengers.com",
+      "age": 1000
+    },
+    {
+      "id": "5",
+      "name": "Black Widow",
+      "email": "rominav@avengers.com",
+      "age": 29
+    },
+    {
+      "id": "6",
+      "name": "Hawkeye",
+      "email": "barton@avengers.com",
+      "age": 31
+    }
+  ]
+}
